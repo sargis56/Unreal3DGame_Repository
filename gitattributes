@@ -1,0 +1,2 @@
+GameEngineFinal/Content/FirstPerson** filter=lfs diff=lfs merge=lfs -text
+GameEngineFinal/Content/FirstPersonBP** filter=lfs diff=lfs merge=lfs -text

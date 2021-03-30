@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+*.uasset
+*.umap
+GameEngineFinal 4.26/Construction_VOL2.png
+GameEngineFinal 4.26/Saved/Config/CrashReportClient/UE4CC-Windows-84D9664C4B8EDEE7A19A19BEA4F0EDB0/CrashReportClient.ini
